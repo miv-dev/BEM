@@ -43,4 +43,12 @@ div.methods__card.card>img.card__icon[src=''][alt='']+div.card__text__wrapper>h4
 ```
 ![card](img/card.png)
 
+### Footerm
+![footer](img/footer.png)
+
+### Form
+```
+form.form-card>h4.form-card__title+(label.form-card__label.form-card__title__label>input.form-card__input)+(label.form-card__label.form-card__title__label>input.form-card__input)+button.button.button--primary.form-card__label__button
+```
+![form](img/form.png)
 
