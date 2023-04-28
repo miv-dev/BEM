@@ -43,7 +43,11 @@ div.methods__card.card>img.card__icon[src=''][alt='']+div.card__text__wrapper>h4
 ```
 ![card](img/card.png)
 
-### Footerm
+### Footer
+```
+footer.footer>div.footer__container>(div.footer_contacts>a.footer__number+p.footer__working-hours+div.footer__social.social>((a.social__link>img)*3))+(div.footer__policy.policy>(a.policy__link*4))+div.footer__apps>img*2
+```
+
 ![footer](img/footer.png)
 
 ### Form
