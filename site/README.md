@@ -38,7 +38,7 @@ header.header>nav.nav-bar>img.nav-bar__logo+div.nav-bar__links
 
 ### Card
 ```
-div.methods__card.card>img.card__icon[src=''][alt='']+div.card__text__wrapper>h4.card__title+p.card__text.card__title__card__text
+div.methods__card.card>img.card__icon[src=''][alt='']+div.card__content>h4.card__title.title+p.card__text.text
 
 ```
 ![card](img/card.png)
@@ -52,7 +52,7 @@ footer.footer>div.footer__container>(div.footer_contacts>a.footer__number+p.foot
 
 ### Form
 ```
-form.form-card>h4.form-card__title+(label.form-card__label.form-card__title__label>input.form-card__input)+(label.form-card__label.form-card__title__label>input.form-card__input)+button.button.button--primary.form-card__label__button
+form.form-card>h4.form-card__title+(label.form-card__label>input.form-card__input)+(label.form-card__label>input.form-card__input)+button.form-card__button.button.button--primary
 ```
 ![form](img/form.png)
 
